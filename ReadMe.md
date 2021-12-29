@@ -18,6 +18,33 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 
 めっちゃ重要です。これないと起動できません()
 
-Windowsをお使いの方は https://github.com/UB-Mannheim/tesseract/wiki にアクセスして64か42bitをインストールしてください(64bit版がいいと思う)
+Windowsをお使いの方は https://github.com/UB-Mannheim/tesseract/wiki にアクセスして64か42bitをインストールしてください(64bit版を推奨します)
 
 またインストールの際、インストールするものを選ぶ項目がありますが、すべてにチェックを入れてください
+
+3:Python3.6以上の環境
+
+開発者のPythonのバージョンは3.9.5 64bitです
+
+4:DeepLのライブラリ
+
+こちらはコンソールで以下の文を入れてインストールができます
+```
+pip install --upgrade deepl
+```
+
+5:Google trans
+
+こちらも先ほど同様にコンソールにいれてインストールができます
+```
+pip3 install googletrans
+```
+
+6:Pillow
+
+4,5同様にコンソールで
+```
+pip install Pillow
+
+```
+

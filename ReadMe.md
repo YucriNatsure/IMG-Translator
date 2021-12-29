@@ -13,9 +13,9 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 これはDeepL翻訳を使いたい人はご自身のDeepLアカウントを作成して、そこからトークンを入手してください(無料版で大丈夫です)
 
 入手したらダウンロードした中にある「path.json」にご自身のトークンを入力してください
-<img src="https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Tesseract.png">
 
 <img src="https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Deepl%20token.png">
+
 ## 2: tesseract 
 
 めっちゃ重要です。これないと起動できません()
@@ -23,6 +23,8 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 Windowsをお使いの方は https://github.com/UB-Mannheim/tesseract/wiki にアクセスして64か32bitをインストールしてください(64bit版を推奨します)
 
 またインストールの際、インストールするものを選ぶ項目がありますが、すべてにチェックを入れてください
+
+<img src="https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Tesseract.png">
 
 ## 3: Python3.6以上の環境
 

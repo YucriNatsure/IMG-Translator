@@ -51,3 +51,11 @@ pip3 install googletrans
 pip install Pillow
 ```
 
+# 開発環境
+
+Python 3.9.5 64bit
+
+Visual Studio Code 
+
+Tesseract ocr windows64bit ver5.0.0-alpha.20210811
+

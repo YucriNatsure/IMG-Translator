@@ -8,13 +8,13 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 # 必要なもの
 当アプリを使うにあたり、必要なものがあります
 
-### 1: DeepLのトークン
+## 1: DeepLのトークン
 
 これはDeepL翻訳を使いたい人はご自身のDeepLアカウントを作成して、そこからトークンを入手してください(無料版で大丈夫です)
 
 入手したらダウンロードした中にある「path.json」にご自身のトークンを入力してください
 
-### 2: tesseract 
+## 2: tesseract 
 
 めっちゃ重要です。これないと起動できません()
 
@@ -22,25 +22,25 @@ Windowsをお使いの方は https://github.com/UB-Mannheim/tesseract/wiki に�
 
 またインストールの際、インストールするものを選ぶ項目がありますが、すべてにチェックを入れてください
 
-### 3: Python3.6以上の環境
+## 3: Python3.6以上の環境
 
 開発者のPythonのバージョンは3.9.5 64bitです
 
-### 4: DeepLのライブラリ
+## 4: DeepLのライブラリ
 
 こちらはコンソールで以下の文を入れてインストールができます
 ```
 pip install --upgrade deepl
 ```
 
-### 5: Google trans
+## 5: Google trans
 
 こちらも先ほど同様にコンソールにいれてインストールができます
 ```
 pip3 install googletrans
 ```
 
-### 6: Pillow
+## 6: Pillow
 
 4,5同様にコンソールで
 ```

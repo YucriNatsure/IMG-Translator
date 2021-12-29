@@ -13,6 +13,8 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 これはDeepL翻訳を使いたい人はご自身のDeepLアカウントを作成して、そこからトークンを入手してください(無料版で大丈夫です)
 
 入手したらダウンロードした中にある「path.json」にご自身のトークンを入力してください
+![img](https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Tesseract.png"img")
+![img](https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Deepl%20token.png"img")
 
 ## 2: tesseract 
 

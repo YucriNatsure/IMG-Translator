@@ -15,7 +15,7 @@ IMG-Translator(以下当アプリ)は、画像から文字を認識し、その�
 入手したらダウンロードした中にある「path.json」にご自身のトークンを入力してください
 <img src="https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Tesseract.png">
 
-<img src=https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Deepl%20token.png">
+<img src="https://github.com/YucriNatsure/IMG-Translator/blob/main/Images/Deepl%20token.png">
 ## 2: tesseract 
 
 めっちゃ重要です。これないと起動できません()
